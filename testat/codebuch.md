@@ -47,7 +47,7 @@ definiert den Sender
 **to**
 definiert den Empfänger 
 
-**relation**
+**relationship**
 Um welche Art von Mitgliedschaft es sich handelt
 0=Leitung (Vorstand, Aufsichtsrat, Präsidium)
 1=Stellvertretende Leitung (Vorstand, Aufsichtsrat, Präsidium)
