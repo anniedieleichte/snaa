@@ -1,0 +1,27 @@
+id,name,position,representation,function,type,age,kind
+Vorstand,Vorstand der VfB Stuttgart 1893 AG,na,na,na,1,na,1
+Rat,Aufsichtsrat der VfB Stuttgart 1893 AG,na,na,na,1,na,1
+Hitzlsperger,Thomas Hitzlsperger,0,0,v,0,38,na
+Keller,Tobias Keller,2,1,v,0,30,na
+Schraft,Oliver Schraft,3,2,v,0,53,na
+Vogt,Claus Vogt,0,na,ar,0,51,na
+Porth,Wilfried Porth,1,na,ar,0,62,na
+Adrion,Rainer Adrion,3,na,ar,0,67,na
+Jenner,Hartmut Jenner,3,na,ar,0,55,na
+Reiner,Franz Reiner,3,na,ar,0,53,na
+Sugg,Dr. Bertram Sugg,3,na,ar,0,55,na
+dfb,Deutscher Fussball Bund,na,na,na,1,na,2
+daffk,Deutsche Akademie für Fussball-Kultur,na,na,na,1,na,na
+dfl,Kommission Clubmedien der Deutsche Fussball-Liga,na,na,na,1,na,0
+vfb,VfB Stuttgart 1893 e. V.,na,na,na,1,na,0
+play,FC PlayFair! Verein für Integrität im Profifußball e.V.,na,na,na,1,na,0
+int,Intesia Group Holding GmbH,na,na,na,1,na,1
+daimler1,Daimler AG,na,na,na,1,na,1
+sudwest,Südwestmetall,na,na,na,1,na,2
+ihk,IHK Region Stuttgart,na,na,na,1,na,2
+hmss,Hanns Martin Schleyer-Stiftung,na,na,na,1,na,3
+hilft,11hilft e. V.,na,na,na,1,na,0
+akf,Alfred-Kärcher-Förderstiftung,na,na,na,1,na,3
+aks,Alfred Kärcher SE & Co. KG,na,na,na,1,na,1
+daimler2,Daimler Mobility AG,na,na,na,1,na,1
+fanclub,VfB Fanclub Courage Gerlingen,na,na,na,1,na,na
