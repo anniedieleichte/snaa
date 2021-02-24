@@ -1,5 +1,7 @@
 ## Meine Codebuch
-#Node-Attribute
+
+##Node-Attribute
+
 **id**
 eindeutige Codierung des Knoten
 
@@ -36,7 +38,8 @@ Art der Organisation
 2=Verband
 3=Stiftung
 
-#Edge-Attribute
+
+##Edge-Attribute
 
 **from**
 definiert den Sender 
