@@ -1,0 +1,15 @@
+id,name,position,power,fans,type
+Vorstand,Vorstand der VfB Stuttgart 1893 AG,na,5,100,0
+Rat,Aufsichtsrat der VfB Stuttgart 1893 AG,na,5,200,0
+Hitzlsperger,Thomas Hitzlsperger,0,4,50,0
+Keller,Tobias Keller,2,3,30,0
+Schraft,Oliver Schraft,3,3,30,0
+Vogt,Claus Vogt,0,3,30,0
+Porth,Wilfried Porth,1,2,50,0
+Adrion,Rainer Adrion,3,10,1000,1
+Jenner,Hartmut Jenner,3,3,40,0
+Reiner,Franz Reiner,3,3,60,0
+Sugg,Dr. Bertram Sugg,3,2,30,0
+dfb,Deutscher Fussball Bund,na,2,3,0
+daffk,Deutsche Akademie für Fussball-Kultur,na,2,3,0
+dfl,Deutsche Fussball-Liga,na,2,3,0
