@@ -1,4 +1,7 @@
+Codebuch al123
+
 Node-Attribute
+
 id
 eindeutige Codierung des Knoten
 name
