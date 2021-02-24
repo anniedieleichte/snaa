@@ -16,7 +16,7 @@ Unterscheidung zwischen Person und Organisation
 **age**
 Alter der Personen
 
-**function**
+**funktion**
 V=Vorstand
 AR=Aufsichtsrat
 
