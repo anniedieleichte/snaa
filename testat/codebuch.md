@@ -4,8 +4,10 @@ Node-Attribute
 
 id
 eindeutige Codierung des Knoten
+
 name
 Vollständiger Name des Knotens
+
 type
 Unterscheidung zwischen Person und Organisation
 0= Person
@@ -13,9 +15,11 @@ Unterscheidung zwischen Person und Organisation
 
 age
 Alter der Personen
+
 function
 V=Vorstand
 AR=Aufsichtsrat
+
 representation
 Funktion innerhalb der VfB Gremien
 0=Sport, Unternehmensstrategie und Kommunikation
@@ -33,7 +37,10 @@ Art der Organisation
 1=Unternehmen
 2=Verband
 3=Stiftung
+
+
 Edge-Attribute
+
 from 
 definiert den Sender 
 
@@ -47,5 +54,6 @@ Um welche Art von Mitgliedschaft es sich handelt
 2=Mitglied
 3=Gründer
 4=Botschafter
+
 year
 Definiert das Jahr, in die Mitgliedschaft entstanden ist
