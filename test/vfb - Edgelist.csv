@@ -1,0 +1,13 @@
+from,to,time,relationship
+Vorstand,Rat,3,1
+Vorstand,Schraft,3,2
+Vorstand,Hitzlsperger,1,3
+Vorstand,Keller,3,3
+Rat,Sugg,3,3
+Rat,Vogt,1,1
+Rat,Porth,1,1
+Rat,Adrion,1,1
+Rat,Hitzlsperger,1,3
+Rat,Keller,2,2
+Rat,Jenner,2,5
+Rat,Reiner,1,4
