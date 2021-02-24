@@ -1,0 +1,13 @@
+from,to,weight,relationship,time
+Vorstand,Rat,3,1,2000
+Vorstand,Schraft,3,2,2001
+Vorstand,Hitzlsperger,1,3,2005
+Vorstand,Keller,3,3,2013
+Rat,Schraft,3,3,2014
+Rat,Vogt,1,1,2006
+Rat,Porth,1,1,2007
+Rat,Adrion,1,1,2009
+Rat,Hitzlsperger,1,3,2009
+Rat,Keller,2,2,2009
+Rat,Jenner,2,5,2000
+Rat,Sara,1,4,2001
