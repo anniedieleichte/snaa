@@ -1,0 +1,13 @@
+from,to,time,relationship
+Vorstand,Hitzlsperger,2019,1
+Vorstand,Schraft,2015,2
+Vorstand,Keller,2021,3
+Rat,Vogt,2019,3
+Rat,Porth,2015,3
+Rat,Adrion,2020,1
+Rat,Jenner,2014,1
+Rat,Reiner,2016,1
+Rat,Sugg,2017,3
+dfb,Hitzlsperger,2,2
+daffk,Hitzlsperger,2,5
+hilft,Adrion,1,4
