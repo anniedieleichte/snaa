@@ -1,0 +1,130 @@
+id,name,type (0/1 - Ziffer oder Medium),region (0/1),published,type
+AADW,Aktuelles aus der Wirtschaft,1,0,1,NA
+ABZ,Abendzeitung,1,1,1,NA
+ABZM,Abendzeitung München,1,1,1,NA
+ABZN,Abendzeitung Nürnberg,1,1,1,NA
+AnW,Angelwoche,1,0,1,NA
+ARF,Aktiv Radfahren,1,0,1,NA
+AUGN,Augsburger News,1,1,1,NA
+AUM,Audimax,1,0,1,NA
+BA,Branchen Anzeiger,1,0,1,NA
+Bild,Bild,1,0,1,NA
+BildB,Bild Berlin,1,1,1,NA
+BildBR,Bild Bremen,1,1,1,NA
+BildD,Bild Dresden,1,1,1,NA
+BildH,Bild Hannover,1,1,1,NA
+BildHA,Bild Hamburg,1,1,1,NA
+BildK,Bild Köln,1,1,1,NA
+BildM,Bild München,1,1,1,NA
+BildO,Bild Online,1,0,2,NA
+BildRN,Bild Rhein-Neckar,1,1,1,NA
+BildS,Bild Stuttgart,1,1,1,NA
+BMP,Berliner Morgenpost,1,1,1,NA
+BOZ,Borkumer Zeitung,1,1,1,NA
+BravoHH,Bravo Hip Hop,1,0,1,NA
+BravoS,Bravo Special,1,0,1,NA
+BRZ,Braunschweiger Zeitung,1,1,1,NA
+Bunte,Bunte,1,0,1,NA
+BZB,BZ Berlin,1,1,1,NA
+Cosmo,Cosmopolitan,1,0,1,NA
+CPC,Computer-Partner Compact,1,0,1,NA
+DEFH,Das Einfamilienhaus,1,0,1,NA
+DGB,Das Goldene Blatt,1,0,1,NA
+DM,Dresdener Morgenpost,1,1,1,NA
+DNB,Das Neue Blatt,1,0,1,NA
+DNT,Der Neue Tag,1,0,1,NA
+DRP,Die Rheinpfalz,1,1,1,NA
+eJournal,E-Learning Journal,1,0,1,NA
+EUR,Ergotherapie und Rehabilitation,1,0,1,NA
+Express,Express,1,1,1,NA
+Focus,Focus,1,0,1,NA
+FocusM,Focus Money,1,0,1,NA
+FRP,Frankenpost,1,1,1,NA
+FRR,Freizeit Revue,1,0,1,NA
+FS,Für Sie,1,0,1,NA
+GoL,Go Longlife,1,0,1,NA
+GONG,Gong,1,0,1,NA
+HAB,Hamburger Abendblatt,1,1,1,NA
+HAZ,Hildesheimer Allgemeine Zeitung,1,1,1,NA
+HM,Hamburger Morgenpost,1,1,1,NA
+HUS,Health & Sales,1,0,1,NA
+Impulse,Impulse,1,0,1,NA
+IN,IN,1,0,1,NA
+KI,Kölner Illustrierte,1,1,1,NA
+Kicker,Kicker,1,0,1,NA
+KSA,Kölner Stadt-Anzeiger,1,1,1,NA
+Mata,Matador,1,0,1,NA
+MBZ,Mittelbayerische Zeitung,1,1,1,NA
+Merian,Merian,1,0,1,NA
+MM,Münchener Merkur,1,1,1,NA
+MNZ,Marburger Neue Zeitung,1,1,1,NA
+MTA,Maintal Tagesanzeiger,1,1,1,NA
+Myself,Myself,1,0,1,NA
+MZ,Münsterische Zeitung,1,1,1,NA
+NK,Nordkurier,1,1,1,NA
+NMN,Neumarkter Nachrichten,1,1,1,NA
+NPR,Neue Presse,1,1,1,NA
+NW,Neue Westfälische,1,1,1,NA
+NWZ,Nordwest-Zeitung,1,1,1,NA
+OBPO,Offenbach Post Online,1,1,2,NA
+Oeko,Öko-Test,1,0,1,NA
+OSTZ,Ostsee-Zeitung,1,1,1,NA
+OVB,Oberbayerisches Volksblatt,1,1,1,NA
+PAZ,Peiner Allgemeine Zeitung,1,1,1,NA
+PCgo,PCgo,1,0,1,NA
+PCM,PC Magazin,1,0,1,NA
+PCP,PC Praxis,1,0,1,NA
+PCW,PC Welt,1,0,1,NA
+PCWO,PC Welt Online,1,0,2,NA
+POP,Popcorn,1,0,1,NA
+Prisma,Prisma,1,0,1,NA
+PS,PS Magazin,1,0,1,NA
+Quix,Quix! (Eltern Family-Beilage),1,0,1,NA
+RF,Reisefieber,1,0,1,NA
+RNR,Rundblick Nord-Report,1,1,1,NA
+RS,Reviersport,1,0,1,NA
+RTV,RTV,1,0,1,NA
+Rubin,Rubin,1,0,1,NA
+SA,Sonntag Aktuell,1,1,1,NA
+SAEZ,Sächsische Zeitung,1,1,1,NA
+SAEZO,Sächsische Zeitung Online,1,1,2,NA
+SCHB,Schwarzwälder Bote,1,1,1,NA
+SCHN,Schleswiger Nachrichten,1,1,1,NA
+SCHP,Schwarzwälder Post,1,1,1,NA
+SCHZ,Schwäbische Zeitung,1,1,1,NA
+Segeln,Segeln,1,0,1,NA
+Stern,Stern,1,0,1,NA
+STT,Straubinger Tagblatt,1,1,1,NA
+Sugar,Sugar,1,0,1,NA
+TAZ,TAZ,1,0,1,NA
+TAZO,TAZ Online,1,0,2,NA
+TGS,Der Tagesspiegel,1,1,1,NA
+THA,Thüringer Allgemeine,1,1,1,NA
+TMK,Top Magazin Karlsruhe,1,1,1,NA
+TV,TV Hören und Sehen,1,0,1,NA
+TVS,TV Spielfilm,1,0,1,NA
+TZM,TZ München,1,1,1,NA
+UUM,Umbauen und Modernisieren,1,0,1,NA
+VBK,Verlag B. Kämmer,1,0,1,NA
+Welt,Die Welt,1,0,1,NA
+WeltAS,Welt am Sonntag,1,0,1,NA
+WeltO,Welt Online,1,0,2,NA
+WUH,Wild und Hund,1,0,1,NA
+YA,Yoga-Aktuell,1,0,1,NA
+Ziffer1,Pressekodex Ziffer 1,0,NA,NA,NA
+Ziffer11,Pressekodex Ziffer 11,0,NA,NA,NA
+Ziffer12,Pressekodex Ziffer 12,0,NA,NA,NA
+Ziffer13,Pressekodex Ziffer 13,0,NA,NA,NA
+Ziffer2,Pressekodex Ziffer 2,0,NA,NA,NA
+Ziffer3,Pressekodex Ziffer 3,0,NA,NA,NA
+Ziffer5,Pressekodex Ziffer 5,0,NA,NA,NA
+Ziffer6,Pressekodex Ziffer 6,0,NA,NA,NA
+Ziffer7,Pressekodex Ziffer 7,0,NA,NA,NA
+Ziffer8,Pressekodex Ziffer 8,0,NA,NA,NA
+Ziffer9,Pressekodex Ziffer 9,0,NA,NA,NA
+ZifferPra,Pressekodex Präambel,0,NA,NA,NA
+Ziffer14,Pressekodex Ziffer 14,0,NA,NA,NA
+Ziffer15,Pressekodex Ziffer 15,0,NA,NA,NA
+Ziffer16,Pressekodex Ziffer 16,0,NA,NA,NA
+Ziffer4,Pressekodex Ziffer 4,0,NA,NA,NA
+Ziffer10,Pressekodex Ziffer 10,0,NA,NA,NA
